@@ -8,3 +8,7 @@ Este repositório será atualizado no decorrer da prática, acompanhe esse desen
 
 13/04/2023 - O primeiro e-mail já chegou e ele contém o SRS(Especificação de Requisitos de Software) , devo ler o documento, analisar e entender as funcionalidades e começar a escrita dos casos de teste.
 
+
+### Acessar arquivo específico
+
+[Especificação de Requisitos de Software](https://github.com/julissy/Testes_GuruBank99/blob/main/SRS_GuruBank99_Traduzido_Partes_Importantes.pdf) - Traduzi as partes que são importantes para a elaboração dos Casos de Teste, estão identificados pelo título na cor **vermelha**
