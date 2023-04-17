@@ -32,8 +32,8 @@ Mini extrato,Extrato personalizado
 16/04/2023 - Iniciei a criação dos CT's. Recebi e-mail contendo o "gabarito" dos casos de teste dessas primeiras funcionalidades que estão sendo desenvolvidas.
 
 Aqui um exemplo de CT's que elaborei para o campo PIN do formulário de Cadastro de novo cliente, utilizei Gherkin. Gherkin é bastante útil pois é um padrão de escrita, melhora a produtividade pois sabendo utilizar conseguimos otimizar o tempo na escrita dos testes e pode ser utilizado tanto na criação de testes manuais como de testes automatizados. Esquema de Cenário é uma palavra-chave do Gherkin, que informa que esse cenário irá utilizar um conjunto de dados para executar exemplos N vezes descrito em seu escopo. PS: só pode ser utilizado se a saída esperada for a mesma para todos os testes, que no caso abaixo é apresentar a mensagem "Campo inválido", não cadastrar o cliente e não prosseguir para a próxima tela.
+![image](https://user-images.githubusercontent.com/102709022/232586251-cb3f03cd-a4fc-4c0a-abec-8cb84d7d2586.png)
 
-![WhatsApp Image 2023-04-17 at 14 43 17](https://user-images.githubusercontent.com/102709022/232567551-f2d8ee2a-f0b4-4a78-8140-f69b36343794.jpeg)
 
 
 17/04/2023 - Recebi E-mail contendo as credenciais para acessar a primeira versão do Sistema e iniciar a execução dos testes nas primeiras funcionalidades que foram desenvolvidas. Utilizarei minha planilha que contém um padrão para documentar os testes executados.
