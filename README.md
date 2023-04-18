@@ -25,8 +25,13 @@ Irei utilizar a Tabela de Decisão,pois consigo visualizar as regras que cada ca
 Recebi o e-mail, me informaram quais funcionalidades a equipe de desenvolvimento está implementando nessa primeiro versão então posso focar nelas:
 
 Novo cliente,Editar cliente,Excluir cliente
+
 Nova conta,Editar conta,Deletar conta
+
+
 Mini extrato,Extrato personalizado
+
+
 (Se tivesse teste de API...olha os CRUD's ai)
 
 16/04/2023 - Iniciei a criação dos CT's. Recebi e-mail contendo o "gabarito" dos casos de teste dessas primeiras funcionalidades que estão sendo desenvolvidas.
