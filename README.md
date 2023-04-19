@@ -32,7 +32,6 @@ Nova conta,Editar conta,Deletar conta
 Mini extrato,Extrato personalizado
 
 
-(Se tivesse teste de API...olha os CRUD's ai)
 
 16/04/2023 - Iniciei a criação dos CT's. Recebi e-mail contendo o "gabarito" dos casos de teste dessas primeiras funcionalidades que estão sendo desenvolvidas.
 
@@ -55,9 +54,20 @@ Status: Informa em qual estado o teste está.
 
 ![WhatsApp Image 2023-04-17 at 14 55 24](https://user-images.githubusercontent.com/102709022/232570349-c0520aca-32a4-4894-b641-0b15798dc670.jpeg)
 
-18/04/2023 - Após realizar a primeira bateria de teste, recebi E-mail contendo a versão 2.0 do sistema e as alterações que o cliente pediu no software.
+18/04/2023 - Após iniciar a primeira bateria de teste foi verificado que a integração entre os módulos não havia sido feita da maneira correta, isso só foi possivel pois realizei o Teste de sanidade que tem como objetivo determinar se a funcionalidade proposta funciona aproximadamente como esperado. Se o teste de sanidade falhar, a compilação é rejeitada para economizar tempo e custos envolvidos em um teste mais rigoroso. Com isso não dei prosseguindo aos testes e pude focar em começar a adequar os testes para a versão 2.0.
 
-Através desse link você terá acesso a versão 1.0 dos Casos de testes executados até a funcionalidade Extrato personalizado  [PlanodeTeste_GuruBank99_V1](https://docs.google.com/spreadsheets/d/1-Q0ioAZlvOUxvom_g6diit-4shq8hGnX/edit?usp=sharing&ouid=109525147298288608320&rtpof=true&sd=true) 
+Recebi E-mail contendo as alterações que o cliente pediu no software e o "gabarito" dos testes.
+
+Através desse link você terá acesso a versão 1.0 dos Casos de testes até a funcionalidade Extrato personalizado  [PlanodeTeste_GuruBank99_V1](https://github.com/julissy/Testes_GuruBank99/blob/main/PlanodeTeste_GuruBank99_V1.xlsx). A versão 1.0 não está totalmente modificada pois a partir do acesso ao sistema pude adaptar os testes, implementarei essas modificações na Versão 2.0. 
+
+
+19/04/2023 - Realizei as alterações necessárias no plano de teste incluindo a funcionalidade consulta de saldo. Recebi a versão 2.0 do sistema e a execução dos testes mostra que algumas falhas foram corrigidas,porém ainda temos falhas.
+
+
+
+
+
+
 
 
 ### Acessar arquivo específico
@@ -65,5 +75,7 @@ Através desse link você terá acesso a versão 1.0 dos Casos de testes executa
 [Especificação de Requisitos de Software - Partes importantes traduzidas](https://github.com/julissy/Testes_GuruBank99/blob/main/SRS_GuruBank99_Traduzido_Partes_Importantes.pdf)
 
 [Divisão das funcionalidades por prioridade - imagem inicial](https://github.com/julissy/Testes_GuruBank99/blob/main/GuruBank99_Funcionalidades_Prioridades.jpg)
-![GuruBank99_Funcionalidades_Prioridades](https://user-images.githubusercontent.com/102709022/232082924-6233527c-185a-44d2-9c88-494228b83978.jpg)
+
+
+[PlanodeTeste_GuruBank99_V1](https://github.com/julissy/Testes_GuruBank99/blob/main/PlanodeTeste_GuruBank99_V1.xlsx)
 
