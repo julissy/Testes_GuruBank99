@@ -55,6 +55,10 @@ Status: Informa em qual estado o teste está.
 
 ![WhatsApp Image 2023-04-17 at 14 55 24](https://user-images.githubusercontent.com/102709022/232570349-c0520aca-32a4-4894-b641-0b15798dc670.jpeg)
 
+18/04/2023 - Após realizar a primeira bateria de teste, recebi E-mail contendo a versão 2.0 do sistema e as alterações que o cliente pediu no software.
+
+Através desse link você terá acesso a versão 1.0 dos Casos de testes executados até a funcionalidade Extrato personalizado  [PlanodeTeste_GuruBank99_V1](https://docs.google.com/spreadsheets/d/1-Q0ioAZlvOUxvom_g6diit-4shq8hGnX/edit?usp=sharing&ouid=109525147298288608320&rtpof=true&sd=true) 
+
 
 ### Acessar arquivo específico
 
