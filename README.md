@@ -63,6 +63,9 @@ Através desse link você terá acesso a versão 1.0 dos Casos de testes até a 
 
 19/04/2023 - Realizei as alterações necessárias no plano de teste [PlanodeTeste_GuruBank99_V2](https://github.com/julissy/Testes_GuruBank99/blob/main/PlanodeTeste_GuruBank99_V2.xlsx) incluindo a funcionalidade consulta de saldo. É possivel verificar que no plano existem testes de **unitário/componente** e testes de **integração**. Recebi a versão 2.0 do sistema e a execução dos testes mostra que algumas falhas foram corrigidas,porém ainda temos falhas.
 
+![image](https://user-images.githubusercontent.com/102709022/233798283-28998c3a-328e-41e5-8991-176d1c68d3c2.png)
+
+
 20/04/2023 - A versão 3.0 sairá em 2 dias e todas as funcionalidades serão implementadas, devo começar a preparar Testes de sistema para me certificar que todo o sistema está funcionando corretamente.
 As funcionalidades que serão implementadas:
 
