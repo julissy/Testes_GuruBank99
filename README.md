@@ -92,20 +92,37 @@ Mini extrato,
 Declaração personalizada,
 Alterar a senha.
 
-21/04/2023 - Os testes de sistema já estão sendo elaborados:
+21/04/2023 - Os **testes de sistema** já estão sendo elaborados:
 
 
 
 ![image](https://user-images.githubusercontent.com/102709022/233757476-7ff00328-b1c8-433d-b455-8aef395589f8.png)
 
+22/04/2023 - A adaptação e modificação dos **testes de sistema** continuam sendo feito, amanhã a Versão 3 do sistema vai ser liberada.
+
+![image](https://user-images.githubusercontent.com/102709022/234442156-9a8e5444-1c70-41c3-acf4-7f868e9f9899.png)
+
+
+23/04/2023 - Enviaram a Versão 3.0 para a realização dos testes, novas mudanças na documentação(SRS) também foram inseridas para a versão 4 do sistema, testes de API devem ser elaborados para testar se os parâmetros obrigatórios estão sendo respeitados, se o **STATUS CODE** corresponde a response enviada.
+Deixo o [PlanodeTeste_GuruBank99_V3](https://github.com/julissy/Testes_GuruBank99/blob/main/PlanodeTeste_GuruBank99_V3.xlsx) disponivel.  
+
+
+24/04/2023 - Os testes de API foram elaborados, utilizarei o Postman para a execução dos testes, uma ferramenta poderosa que tem a opção de testes para verificação, as alterações no [PlanodeTeste_GuruBank99_V4](https://github.com/julissy/Testes_GuruBank99/blob/main/PlanodeTeste_GuruBank99_V4.xlsx) foram realizadas, aguardo a liberação da Versão 4 para iniciar as execuções.
+
+![image](https://user-images.githubusercontent.com/102709022/234446439-470c7238-4830-4aee-88df-cbd5aef113cc.png)
 
 
 
+25/04/2023 - Versão 4 liberada e testes executados, algumas falhas permanecem mas posso concluir que minha criatividade e habilidade para planejamento, uso de técnicas, criação de cenários e casos de teste tiveram um ganho imensurável! 
+Saio desse projeto mais experiente e pronta para novos desafios!
 
 
+Se você chegou até aqui, meu muito obrigada por ter tirado um tempinho para acompanhar esse repositório. Deixa uma :star2: caso tenha gostado e tenha se sentido incentivado(a) a realizar essa prática!
+Caso precise de alguma ajuda pode entrar em contato comigo.
 
+PS: Por questões de otimização os planos de testes já estão com os casos executados.
 
-
+PS2: Inclui uma evidência no Plano de teste 4, espero que ao realizar o download ele não esteja desconfigurado.
 
 
 ### Acessar arquivo específico
@@ -120,3 +137,8 @@ Alterar a senha.
 
 [PlanodeTeste_GuruBank99_V2](https://github.com/julissy/Testes_GuruBank99/blob/main/PlanodeTeste_GuruBank99_V2.xlsx)
 
+
+[PlanodeTeste_GuruBank99_V3](https://github.com/julissy/Testes_GuruBank99/blob/main/PlanodeTeste_GuruBank99_V3.xlsx)
+
+
+[PlanodeTeste_GuruBank99_V4](https://github.com/julissy/Testes_GuruBank99/blob/main/PlanodeTeste_GuruBank99_V4.xlsx)
